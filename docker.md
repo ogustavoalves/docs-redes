@@ -1,4 +1,4 @@
-# Docker - máquina "server"
+# Docker - Máquina "server"
 
 ## 1. Adicionar docker na Vm server
 Instale o docker na máquina em que os containers irão rodar:

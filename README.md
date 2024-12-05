@@ -1,3 +1,8 @@
+# Topologia do Projeto
+
+<div>
+    <img src="./diagrams/topologia-img.png">
+</div>
 
 # Máquina "nginx"
 Composta por: proxy reverso e load balancer
