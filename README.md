@@ -146,7 +146,7 @@ sudo vim /etc/nginx/conf.d/load-balancer.conf
 ```bash
 # load-balancer.conf
 
-upstream servidorgiovani {
+upstream servidorgustavo {
     server localhost:servidor1;
     server localhost:servidor2;
 }
